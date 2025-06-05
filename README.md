@@ -19,7 +19,7 @@ I’ll show the tooling needed to get started, useful resources, demo the applic
 
 PDF slides of the talk will be available for download on this page:
 
-- [PyCon Italia 2025 Talk Slides as PDF](https://downloads.egenix.com/python/EuroPython-2024-Talk-PyRun.pdf)
+- [PyCon Italia 2025 Talk Slides as PDF](https://downloads.egenix.com/python/PyCon-Italia-2025-Talk-Programming-Hardware-Displays.pdf)
 
 These are released under the same license as the other files in this directory.
 
