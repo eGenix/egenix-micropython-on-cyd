@@ -18,8 +18,6 @@ I’ll show the tooling needed to get started, useful resources, demo the applic
 - [CYD](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display)
 - [LVGL + MicroPython Firmware](https://stefan.box2code.de/2023/11/18/esp32-grafik-mit-lvgl-und-micropython/) (the blog is in German, but it provides working lv_micropython firmware downloads)
 
-These are released under the same license as the other files in this directory.
-
 ## Conference and Events
 
 This talk was or will be held at the following events:
