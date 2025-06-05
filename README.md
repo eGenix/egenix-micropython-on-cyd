@@ -17,16 +17,14 @@ I’ll show the tooling needed to get started, useful resources, demo the applic
 - [LV MicroPython](https://github.com/lvgl/lv_micropython)
 - [CYD](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display)
 
-PDF slides of the talk will be available for download on this page:
-
-- [PyCon Italia 2025 Talk Slides as PDF](https://downloads.egenix.com/python/PyCon-Italia-2025-Talk-Programming-Hardware-Displays.pdf)
-
 These are released under the same license as the other files in this directory.
 
 ## Conference and Events
 
 This talk was or will be held at the following events:
-- [PyCon Italia 2025](https://downloads.egenix.com/python/PyCon-Italia-2025-Talk-Programming-Hardware-Displays.pdf)
+- [PyCon Italia 2025](https://2025.pycon.it/en/event/programming-hardware-displays-the-easy-way-using-micropython-and-lvgl) ([Slides as PDF](https://downloads.egenix.com/python/PyCon-Italia-2025-Talk-Programming-Hardware-Displays.pdf))
+
+The slides are released under the same license as the other files in this directory (Apache2 license).
 
 ## Contact
 
