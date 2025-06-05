@@ -16,6 +16,7 @@ I’ll show the tooling needed to get started, useful resources, demo the applic
 - [LVGL](https://lvgl.io/)
 - [LV MicroPython](https://github.com/lvgl/lv_micropython)
 - [CYD](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display)
+- [LVGL + MicroPython Firmware](https://stefan.box2code.de/2023/11/18/esp32-grafik-mit-lvgl-und-micropython/) (the blog is in German, but it provides working lv_micropython firmware downloads)
 
 These are released under the same license as the other files in this directory.
 
@@ -23,6 +24,7 @@ These are released under the same license as the other files in this directory.
 
 This talk was or will be held at the following events:
 - [PyCon Italia 2025](https://2025.pycon.it/en/event/programming-hardware-displays-the-easy-way-using-micropython-and-lvgl) ([Slides as PDF](https://downloads.egenix.com/python/PyCon-Italia-2025-Talk-Programming-Hardware-Displays.pdf))
+- [EuroPython 2025](https://ep2025.europython.eu/session/programming-hardware-displays-the-easy-way-using-micropython-and-lvgl) (Slides will be available shortly before the event)
 
 The slides are released under the same license as the other files in this directory (Apache2 license).
 
